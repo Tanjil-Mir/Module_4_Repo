@@ -1,0 +1,7 @@
+nav > ul > li{
+    display: inline;
+    margin-left: 60px;
+}
+nav li  a{
+    text-decoration: none;
+}
