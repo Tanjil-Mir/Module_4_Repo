@@ -1,0 +1,9 @@
+td, th{
+    border: 3px solid royalblue;
+    padding: 10px 30px;
+    font-size: larger;
+    font-weight: 700    ;
+}
+table{
+    border-collapse: collapse;
+}
