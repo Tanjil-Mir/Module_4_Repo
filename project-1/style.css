@@ -4,20 +4,20 @@ hr {
 }
 a {
   text-decoration: none;
-  color: rgb(22, 255, 243);
+  color: whitesmoke;
   font-size: large;
   font-weight: 700;
-  border: 3px solid rgb(119, 221, 255);
-  background-color: rgb(4, 71, 71);
+  border: 5px solid #51cefa;
+  background-color: #103047;
   border-radius: 10px;
-  padding: 6px;
+  padding: 10px;
 }
 input,
 textarea {
   display: block;
   margin-top: 10px;
 }
-button{
+button {
   margin-top: 30px;
   font-size: large;
 }
